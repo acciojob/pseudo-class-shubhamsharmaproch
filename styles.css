@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 div::before {
 	content:"Before Element";
-	color:red;
+	color:rgb(255 52 55);
 	
 }
 div::after {
 	content:"After Element";
-	color:red;
+	color:rgb(255 52 55);
 	
 }
