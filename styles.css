@@ -2,7 +2,10 @@
 .contents::before {
 	content:"Before Element";
 	color:red;
+	font-size:20px;
 }
 .contents::after {
 	content:"After Element";
 	color:red;
+	font-size:20px;
+}
