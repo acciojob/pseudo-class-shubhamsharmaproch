@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
-div::before {
+div::before{
 	content:"Before Element";
-	color:rgb(244, 9, 9);
-	
+	color:red;
+	font-size:20px;
 }
-div::after {
+ 
+div::after{
 	content:"After Element";
-	color:rgb(244, 9, 9);
-	
+	color:red;
+	font-size:20px;
 }
